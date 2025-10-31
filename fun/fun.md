@@ -1,0 +1,1 @@
+Here in the fun folder, I’ll make some Python scripts for fun purposes.

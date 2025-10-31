@@ -19,7 +19,8 @@ All code is public and available for anyone to explore or learn from.
 ## Wanna execute something?
 
 If you got python already installed please do:
-    ```bash
+   
+     ```bash
     python3 fun/bomb.py
     ```
     Or you can do this:
