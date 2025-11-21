@@ -12,7 +12,7 @@ All code is public and available for anyone to explore or learn from.
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DevLuuk123/Python-practice
+   git clone https://github.com/luukklingens/Python-practice
    ```
 
 

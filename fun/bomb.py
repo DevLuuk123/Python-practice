@@ -1,5 +1,5 @@
 # Made by Luuk Klingens
-# GitHub: https://github.com/devluuk123
+# GitHub: https://github.com/luukklingens
 # Copyright Luuk Klingens 2025
 
 
